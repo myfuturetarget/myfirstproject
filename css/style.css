@@ -1,0 +1,145 @@
+/* font-family: 'Open Sans', sans-serif;
+font-family: 'Roboto', sans-serif; */
+body{
+  background: #61727C;
+margin: 0;
+}
+
+h1{
+  text-align: center;
+  color: #36BFB1;
+}
+
+h2{
+  background: #0F353D;
+  padding: 20px ;
+  margin:0;
+  text-align: center;
+  color: #36BFB1;
+}
+
+h3{
+  color: aliceblue;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+.killss{
+  position: relative;
+  left: 4%;
+}
+
+.killsss{
+  position: relative;
+  left: -3%;
+}
+
+
+.binarry{
+  background: #042940;
+  padding: 20px 100px 20px 30px;
+  margin: 40px auto 10px auto;
+  width: 40%;
+  float: none;
+  position: relative;
+  height: 60%;
+}
+
+
+.decimal{
+  background: #042940;
+  padding: 20px 100px 20px 30px;
+  margin: 10px auto;
+  width: 40%;
+  float: none;
+ position: relative;
+}
+
+.age{
+  background: #042940;
+  padding: 20px 100px 20px 30px;
+  margin: 10px auto;
+  width: 40%;
+  float: none;
+ position: relative;
+}
+
+button{
+  padding: 5px 30px;
+  position: relative;
+  left: 32%;
+}
+
+input{
+padding: 3px;
+position: relative;
+left: 32%;
+}
+
+.random{
+  background: #042940;
+  padding: 20px 100px 20px 30px;
+  margin: 10px auto;
+  position: relative;
+  width: 40%;
+  float: none;
+}
+
+p{
+  color: aliceblue;
+  position: relative;
+  left: 32%;
+
+}
+
+.fotler{
+  height: 800px;
+  width: 100%;
+  background: #202022;
+  margin: 0;
+}
+
+#demo{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: aquamarine;
+}
+
+#demo1{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: aquamarine;
+}
+
+#demo2{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: aquamarine;
+}
+
+#demo3{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: aquamarine;
+}
+
+#demo4{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #04BF8A;
+}
+
+#demo5{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #04BF8A;
+}
+
+.fot{
+  text-align: center;
+  position: relative;
+  left: 0;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  color: #CACACA;
+}
