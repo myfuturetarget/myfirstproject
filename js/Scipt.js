@@ -63,10 +63,12 @@ function randomNumber() {
 // Random funtion use guild test..
 function giuld() {
   document.getElementById("demo4").innerHTML =
-    "✅ If you want to see any random value then You will " + "<br/>" +
-    " have type any number as like startingrandom point in this first input section.";
+    "✅ If you want to see any random value then  " + "<br/>" +
+    " You will have type any number as like starting  " + "<br/>" +
+    " random point in this first input section.";
   document.getElementById("demo5").innerHTML =
-    "✅ And you will have type any number as like finishing " + "<br/>" +
-    " random point in the last input section. And keep to tap refresh button as long " +
-    "<br/>" + "as you want to seeing this random value.";
+    "✅ And you will have type any number as like " + "<br/>" +
+    " finishing random point in the last input section. " + "<br/>" +
+    " And keep to tap refresh button as long as you " +
+    "<br/>" + " want to seeing this random value.";
 };
