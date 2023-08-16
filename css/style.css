@@ -11,15 +11,15 @@ h1{
 }
 
 h2{
-  background: #0F353D;
+  background: #038C8C;
   padding: 20px ;
   margin:0;
   text-align: center;
-  color: #36BFB1;
+  color: #fff;
 }
 
 h3{
-  color: aliceblue;
+  color: #FF5F5D;
   font-family: 'Roboto', sans-serif;
   text-align: center;
 }
@@ -68,12 +68,24 @@ button{
   padding: 5px 30px;
   position: relative;
   left: 32%;
+  background: #042940;
+  color: aliceblue;
+    border-radius: 5px;
+}
+
+button:hover{
+  background: #04BF8A;
+  color: #042940;
+
 }
 
 input{
 padding: 3px;
 position: relative;
 left: 32%;
+  background: #CACACA;
+  border-radius: 2px;
+  border: 2px solid #04BF8A;
 }
 
 .random{
